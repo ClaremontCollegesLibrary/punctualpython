@@ -3,7 +3,7 @@ pandas
 matplotlib
 scipy
 pygame
-dateutil
+python-dateutil
 plotnine
 plotly
 tqdm
